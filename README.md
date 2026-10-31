@@ -1,6 +1,6 @@
-# Fantasy Premier League & Football Performance Analytics
+# English Premier League & Football Performance Analytics
 
-> English Premier League · Seasons 2025/26 and 2026/27
+> English Premier League · Seasons 2025/26
 > Status: **Proposed — data validation required** · Machine Learning is **out of scope**
 > Proposal date: 15 October 2026
 
@@ -31,9 +31,9 @@
 
 ## 1. Project Name
 
-**Fantasy Premier League & Football Performance Analytics**
+**English Premier League & Football Performance Analytics**
 
-Short name: `FPL_Data_Analysis`
+Short name: `EPL_Data_Analysis`
 
 ---
 
